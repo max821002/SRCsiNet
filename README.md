@@ -1,7 +1,10 @@
 # SRCsiNet
 The contents are proposed in the manuscript "Physics-Inspired Deep Learning Anti-Aliasing Framework in Efficient Channel State Feedback".
+
 The arxiv version of the manuscript can be accessed through the link: (TBD)
+
 Authors: Yu-Chien Lin, Yan Xin, Ta-Sung Lee, Charlie (Jianzhong) Zhang, and Zhi Ding.
+
 The project members are from University of California, Davis and Samsung Research America.
 All the dataset can be downloaded from the link: https://drive.google.com/drive/folders/1KPIpHV4JNYndbT876caZ6l7XsSzNlO6A?usp=sharing
 
